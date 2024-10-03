@@ -1,0 +1,11 @@
+/*Basic GIT Command Learn so far*/
+
+
+git init :basic initilization of GIT Repository Folder.
+git commit :It will commit the changes to the main .
+git commit -m : It will commit the changes to main along with specific msg.
+git config --global user.name  :It will setup the username through which changes will push to github.
+git config --global user.email:It will setup the Email id through which changes will push to github.
+git add . :It will add a particular file to git .
+git add *. It will add all the file to git at once.
+
