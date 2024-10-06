@@ -9,3 +9,11 @@ git config --global user.email:It will setup the Email id through which changes 
 git add . :It will add a particular file to git .
 git add *. It will add all the file to git at once.
 
+
+/*GIT Branches Commands*/
+
+git branch :It will show the current branch you are in currently.
+git branch -m main :To Rename a branch.
+git checkout <branch name > :To navigate within branches.
+git checkout -b <branch name> :To create a new branch.
+git checkout -d <branch name > : To delete a branch.
